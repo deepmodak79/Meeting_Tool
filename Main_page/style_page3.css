@@ -59,3 +59,16 @@ input[type="button"]{
     font-size:18px;
 
 }
+.button{
+    size-adjust: 500%;
+    background-color: blue;
+      border: none;
+     color: blue; 
+     /* padding: 5px 12px; */
+     /* text-align: center; */
+     /* text-decoration: none; */
+     display: inline-block;
+     font-size: 16px;
+     /* margin: 4px 2px; */
+     cursor: pointer;
+}
